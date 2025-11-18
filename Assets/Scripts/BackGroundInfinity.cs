@@ -6,7 +6,6 @@ using UnityEngine;
 public class BackGroundInfinity : MonoBehaviour
 {
     public float speed; //Toc do bg troi
-
     [SerializeField]
     private Renderer bgRenderer;
 
